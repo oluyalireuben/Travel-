@@ -6,3 +6,25 @@ Beautiful travel tour website using html css javascript. Navbar, carousel, cards
 
 <br>Link to the website: <br>
 https://travel-ivory-two.vercel.app/
+
+<br>Features: <br>
+-HTML
+
+-CSS
+
+-Javascript
+
+<br>Usage: <br>
+
+-Clone the repository and open it in any HTML Editor.
+
+
+Run the website using your favourite browser
+
+
+<br>Contributing: <br>
+
+Feel free to contribute to the development this website by opening issues and pull requests.
+
+<br>Contact US: <br>
+If you have any questions concerning website building, please contact us
