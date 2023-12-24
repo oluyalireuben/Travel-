@@ -1,5 +1,5 @@
 
-<br>Travel<br>
+<b> <br>Travel<br></b>
 </h1>
 Beautiful travel tour website using html css javascript. Navbar, carousel, cards, footers. img responsive.
 
@@ -7,24 +7,25 @@ Beautiful travel tour website using html css javascript. Navbar, carousel, cards
 <b><br>Link to the website: <br> </b>
 https://travel-ivory-two.vercel.app/
 
-<br>Features: <br>
+<b> <br>Features: <br> </b>
 -HTML
 
 -CSS
 
 -Javascript
 
-<br>Usage: <br>
+<b> <br>Usage: <br> </b>
 
 -Clone the repository and open it in any HTML Editor.
+
 https://github.com/oluyalireuben/Travel-
 
 Run the website using your favourite browser
 
 
-<br>Contributing: <br>
+<b> <br>Contributing: <br> </b>
 
 Feel free to contribute to the development this website by opening issues and pull requests.
 
-<br>Contact US: <br>
+<b> <br>Contact US: <br> </b>
 If you have any questions concerning website building, please contact us
