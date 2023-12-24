@@ -4,7 +4,7 @@
 Beautiful travel tour website using html css javascript. Navbar, carousel, cards, footers. img responsive.
 
 
-<br>Link to the website: <br>
+<b><br>Link to the website: <br> </b>
 https://travel-ivory-two.vercel.app/
 
 <br>Features: <br>
@@ -17,7 +17,7 @@ https://travel-ivory-two.vercel.app/
 <br>Usage: <br>
 
 -Clone the repository and open it in any HTML Editor.
-
+https://github.com/oluyalireuben/Travel-
 
 Run the website using your favourite browser
 
