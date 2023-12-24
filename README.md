@@ -7,5 +7,5 @@ Beautiful travel tour website using html css javascript. Navbar, carousel, cards
 1. Mobile friendly approach.
 2. Javscript Vanilla cake.
 
-##Link to the website 
+<br>Link to the website: <br>
 https://travel-ivory-two.vercel.app/
