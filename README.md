@@ -14,7 +14,7 @@ https://travel-ivory-two.vercel.app/
 
 -JS
 
-<b> <br>Usage: <br> </b>
+<b> <br>USAGE: <br> </b>
 
 Clone the repository and open it in any HTML Editor.
 
@@ -23,7 +23,7 @@ https://github.com/oluyalireuben/Travel-
 Run the website using your favourite browser
 
 
-<b> <br>Contributing: <br> </b>
+<b> <br>CONTRIBUTING: <br> </b>
 
 Feel free to contribute to the development this website by opening issues and pull requests.
 
