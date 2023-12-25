@@ -27,5 +27,5 @@ Run the website using your favourite browser
 
 Feel free to contribute to the development this website by opening issues and pull requests.
 
-<b> <br>Contact US: <br> </b>
+<b> <br>CONTACT US: <br> </b>
 If you have any questions concerning website building, please contact us
