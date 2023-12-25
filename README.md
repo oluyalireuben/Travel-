@@ -1,5 +1,5 @@
 
-<b> <br>Travel<br></b>
+<b> <br>TRAVEL<br></b>
 </h1>
 Beautiful travel tour website using html css javascript. Navbar, carousel, cards, footers. img responsive.
 
