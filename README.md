@@ -15,7 +15,6 @@ https://travel-ivory-two.vercel.app/
 -JS
 
 <b> <br>USAGE: <br> </b>
-
 Clone the repository and open it in any HTML Editor.
 
 https://github.com/oluyalireuben/Travel-
