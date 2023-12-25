@@ -12,7 +12,7 @@ https://travel-ivory-two.vercel.app/
 
 -CSS
 
--Javascript
+-JS
 
 <b> <br>Usage: <br> </b>
 
